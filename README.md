@@ -1,2 +1,2 @@
 # pharmacyexpresapp
-this is pharmacy inventory management demo app using express and jade
+this is pharmacy inventory management demo app using express and pug
